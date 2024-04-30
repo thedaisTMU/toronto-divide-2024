@@ -1,0 +1,16 @@
+﻿Figure_number,Approx_page,Figure_title,X_Axis,Y_Axis,Caption,Legends,X_Axis_Ticks,Y_Axis_Ticks,Other_Annocation,Notes,File_Name,Tracking,Map
+Figure 1,,Overall connectivity,,% of Toronto residents,All respondents (excluding those who declined),,,%,,,,Yes,
+Figure 2,,Internet Access Heatmap,,,Those without home internet,,,,,Custom,,No,Yes
+Figure 3,,Reason for No Access,,% of those without home internet,,,,%,,,,Yes,
+Figure 4,,Uses of the Internet,,% of those with home internet,,,,%,,,,No,
+Figure 5,,Impact of No Internet,,% of those without home internet,,,,%,,,,No,
+Figure 6,,Access Locations,,% of Toronto residents,,,,%,,,,Yes,
+Figure 7,,Internet Speeds,,% of those with home internet,,,,%,,,,Yes,
+Figure 8,,Perceived quality,,% of those with home internet,,,,%,,,,Yes,
+Figure 9,,Fast/Very Fast Heatmap,,,,,,,,Custom,,No,Yes
+Figure 10,,High Speed Internet Heatmap,,,,,,,,Custom,,No,Yes
+Figure 11,,Combined Bill Impact Chart,,% of those with home internet,,,,%,,,,No,
+Figure 12,,Concern about paying bills,,% of those with home internet,,,,%,,,,No,
+Figure 13,,Concern about paying bills map,,,,,,,,Custom,,No,Yes
+Figure 14,,Extra Bill Impacts,,% of those with home internet,,,,%,,,,No,
+Figure 15,,Overage Fees,,% of those with home internet,,,,%,,,,No,
