@@ -1,8 +1,16 @@
 ﻿description,year,stat
-$0-24,2023,40
-$25-49,2023,20
-$50-74,2023,16
-$75-99,2023,8
-$100 or more,2023,8
-"Don't know or 
-prefer not to say",2023,9
+"Been charged late 
+fees for not paying 
+your home internet or 
+cell phone bill on time",2023,18
+"Been disconnected from home 
+internet or cell phone service 
+due to lack of payment",2023,10
+"Been charged fees for 
+going over data limits or 
+caps on your cell phone",2023,23
+"Been charged fees for 
+going over data limits or caps 
+on your home internet",2023,11
+None of the above,2023,55
+Don't know or prefer not to say,2023,4
